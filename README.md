@@ -1,2 +1,2 @@
 # weytools
-**simple page for advertising local tech services
+**simple page for advertising local tech services**
