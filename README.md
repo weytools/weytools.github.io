@@ -1,2 +1,2 @@
 # weytools
-master root
+**simple page for advertising local tech services**
